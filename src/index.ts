@@ -1,1 +1,3 @@
-console.log("Hello webpack")
+import { sampleFunc } from "./sample-func";
+
+sampleFunc();
